@@ -1,4 +1,6 @@
+<div align="center">
 ### Olá, me chamo GUSTAVO e estou no 2º Período em Desenvolvimento de Sistemas!
+</div>
 
 <div align="center">
   <a href="https://github.com/DRCO23">
