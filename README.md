@@ -1,4 +1,4 @@
-### Olá, me chamo GUSTAVO e estou no 3º ano do técnico em Desenvolvimento de Sistemas!
+### Olá, me chamo GUSTAVO e estou no 2º Período em Desenvolvimento de Sistemas!
 
 <div align="center">
   <a href="https://github.com/MINGH3TTI">
